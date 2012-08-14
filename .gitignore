@@ -8,3 +8,9 @@ TestResults
 # mono related files 
 *.userprefs
 *.pidb
+
+# Resharper related files
+_Resharper.*
+
+# visual studio related files
+*.suo
