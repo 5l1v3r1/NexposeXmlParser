@@ -14,3 +14,4 @@ _Resharper.*
 
 # visual studio related files
 *.suo
+*.csproj.user
